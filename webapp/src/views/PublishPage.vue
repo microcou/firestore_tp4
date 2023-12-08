@@ -1,0 +1,3 @@
+<template>
+    Publish page
+</template>
